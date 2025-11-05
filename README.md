@@ -7,6 +7,10 @@ relational database using JDBC batch inserts.
 This repository is intended as a minimal reference for how to configure and
 run a simple Spring Batch job with reader -> processor -> writer steps.
 
+# Spring Batch Architecture
+
+![Spring Batch Architecture](./springBatchImage.webp)
+
 ## Features / Summary
 
 - Reads `data.csv` (classpath) using a `FlatFileItemReader`.
