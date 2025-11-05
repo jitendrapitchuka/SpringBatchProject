@@ -87,3 +87,9 @@ SELECT product_id, price, discount, discounted_price FROM products LIMIT 10;
 This should return the first 10 products with their prices and calculated
 discounted prices.
 
+
+## Sample Db SS
+
+![DataBase Output](./DB_SS.png)
+
+![DataBase Tables](./DB_SS_1.png)
